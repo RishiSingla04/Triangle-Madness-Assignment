@@ -4,5 +4,5 @@ This was a grade 12 assignment where we were given the task to write a program w
 
 How to use the program:
 - Download both files
-- Launch an IDE and upload both files to the IDE
+- Launch a java compiler and upload both files to the compiler
 - Click run and the program should work as designed
